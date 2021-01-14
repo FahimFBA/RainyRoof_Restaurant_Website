@@ -14,13 +14,15 @@ My desired orange color : #e67e22
     box-sizing: border-box;
 }
 
-html {
+html,
+body {
     background-color: #fff;
     color: #555;
     font-family: 'Lato' , 'Arial' , sans-serif;
     font-weight: 300;
     font-size: 20px;
     text-rendering: optimizeLegibility;
+    overflow-x: hidden;
 }
 
 .clearfix {zoom: 1}
@@ -337,14 +339,19 @@ header {
     background-color: #f4f4f4
 }
 
+.steps-box {
+    margin-top: 30px;
+}
+
 
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;
-    margin-top: 30px;
+    
 }
 
 .steps-box:last-child {
+    text-align: left;
     padding-left: 3%;
     margin-top: 70px;
     
@@ -548,11 +555,90 @@ input[type=checkbox]{
 
 
 
+/* ------------------------------------------- */
+/* FOOTER */
+/* ------------------------------------------- */
+
+
+footer {
+    background-color: #333;
+    padding: 50px;
+    font-size: 80%;
+    
+}
+
+.footer-nav {
+    list-style: none;
+    float: left;
+}
+
+.social-links {
+    list-style: none;
+    float: right;
+}
+
+.footer-nav li,
+.social-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+
+.footer-nav li:last-child,
+.social-links li:last-child {
+    margin: 0;
+}
 
 
 
+.footer-nav li a:link,
+.footer-nav li:visited,
+.social-links li a:link,
+.social-links li:visited {
+    text-decoration: none;
+    border: 0;
+    color: #888;
+    transition: color 0.2s;
+}
 
+.footer-nav li a:hover,
+.footer-nav li a:active {
+    color: #ddd;
+}
 
+.social-links li a:link,
+.social-links li a:visited {
+    font-size: 160%;
+}
 
+.ion-social-facebook,
+.ion-social-twitter,
+.ion-social-googleplus,
+.ion-social-instagram {
+    transition: color 0.2s;
+}
+
+.ion-social-facebook:hover {
+    color: #3b5998;
+}
+
+.ion-social-twitter:hover {
+    color: #1da1f2;
+}
+
+.ion-social-googleplus:hover {
+    color: #db4437;
+}
+
+.ion-social-instagram:hover {
+    color: #c32aa3;
+}
+
+footer p {
+    color: #888;
+    text-align: center;
+    
+    margin-top: 20px;
+}
 
 
