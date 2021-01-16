@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
    <head>
+    <meta charset="utf-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <link rel="stylesheet" type="text/css" href="vendors/css/normalize.css">
       <link rel="stylesheet" type="text/css" href="vendors/css/grid.css">
       <link rel="stylesheet" type="text/css" href="vendors/css/ionicons.min.css">
+      <link rel="stylesheet" type="text/css" href="vendors/css/animate.css">
       
        <link rel="stylesheet" type="text/css" href="resources/css/style.css">
        <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
@@ -20,23 +22,25 @@
           <nav>
               <div class="row">
                   <img src="resources/img/logo-white.png" alt="RainyRoof logo" class="logo">
-                  <ul class="main-nav"> 
-                  <li><a href="#">Food delivery</a></li>
-                  <li><a href="#">How it works</a></li>
-                  <li><a href="#">Our services</a></li>
-                  <li><a href="#">Sign up</a></li>
+                  <img src="resources/img/logo.png" alt="RainyRoof logo" class="logo-black">
+                  <ul class="main-nav js--main-nav"> 
+                  <li><a href="#features">Food delivery</a></li>
+                  <li><a href="#works">How it works</a></li>
+                  <li><a href="#cities">Our cities</a></li>
+                  <li><a href="#plans">Sign up</a></li>
                   </ul>
+                  <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
               </div>
           </nav>
            <div class="background-text-box">
                <h1>Say goodbye to the junk foods.<br> It's time for super healthy meals.  </h1>
-               <a class="btn btn-full" href="#">I'm hungry</a>
-               <a class="btn btn-ghost" href="#">Show me more</a>
+               <a class="btn btn-full js--scroll-to-plans" href="#">I'm hungry</a>
+               <a class="btn btn-ghost js--scroll-to-start" href="#">Show me more</a>
            </div>
            
        </header>
           
-          <section class="section-features">
+          <section class="section-features js--section-features" id="features">
               <div class="row">
                  
                   <h2>Get food fast &mdash; not fast food </h2>
@@ -45,11 +49,11 @@
                   </p>
               </div>
               
-              <div class="row">
+              <div class="row js--wp-1">
                   <div class="col span-1-of-4 box">
                     
                      <i class="ion-ios-infinite icon-big"></i>
-                      <h3>Up to 366 days/year</h3>
+                      <h3>Up to 365 days/year</h3>
                       <p>
                           Never cook again! We really mean that. Our subscription plans include up to 365 days/year coverage. You can also choose to order more flexibly if that's your style.
                       </p>
@@ -144,13 +148,13 @@
               </ul>
           </section>
           
-          <section class="section-steps">
+          <section class="section-steps" id="works">
              <div class="row">
                  <h2>How it works &mdash; Simple as 1, 2, 3</h2>
              </div>
              <div class="row">
                  <div class="col span-1-of-2 steps-box">
-                     <img src="resources/img/app-iPhone.png" alt="RainyRoof app on iPhone" class="app-screen">
+                     <img src="resources/img/app-iPhone.png" alt="RainyRoof app on iPhone" class="app-screen js--wp-2">
                  </div>
                  <div class="col span-1-of-2 steps-box">
                      <div class="works-step">
@@ -184,12 +188,12 @@
               
           </section>
           
-          <section class="section-citis">
+          <section class="section-citis" id="cities">
              
              <div class="row">
                  <h2>We're currently in theses cities</h2>
              </div>
-             <div class="row">
+             <div class="row js--wp-3">
                  <div class="col span-1-of-4 box">
                    <img src="resources/img/lisbon-3.jpg" alt="Lisbon">
                    <h3>Lisbon</h3>
@@ -295,13 +299,13 @@
               
           </section>
            
-           <section class="section-plans">
+           <section class="section-plans js--section-plans" id="plans">
                <div class="row">
                    <h2>Start eating healthy food from today</h2>
                </div>
                <div class="row">
                <div class="col span-1-of-3">
-                   <div class="plan-box">
+                   <div class="plan-box js--wp-4">
                        <div>
                            <h3>Premium</h3>
                            <p class="plan-price">$399 <span>/ month</span></p>
@@ -477,11 +481,17 @@
             </div>
         </footer>
         
-    </body>
-    
+        
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
     <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
+    <script src="vendors/js/jquery.waypoints.min.js"></script>
+    <script src="resources/js/script.js"></script>
+        
+    </body>
+    
+  
 
 
     
