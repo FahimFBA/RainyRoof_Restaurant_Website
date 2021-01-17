@@ -1,12 +1,12 @@
-### This website has been prepared by pure raw codes : HTML, CSS & JavaScript ###
+## This website has been prepared by pure raw codes : HTML, CSS & JavaScript ##
 
-## Do you want to see the result ##
+### Do you want to see the result ###
 
-[Click here!](friendly-bose-0eb886.netlify.app/)
+Click in the link: friendly-bose-0eb886.netlify.app/
 
-## Do you have plan on upgrading this website in the near future? ##
+### Do you have plan on upgrading this website in the near future? ###
 
 My answer is YES!
 
-## Will you accept customization from others too? ##
+### Will you accept customization from others too? ###
 Gladly!
