@@ -1,8 +1,8 @@
 ## This website has been prepared by pure raw codes : HTML, CSS & JavaScript ##
 
-### Do you want to see the result ###
+### Do you want to see the result? ###
 
-Click in the link: friendly-bose-0eb886.netlify.app/
+[Click here!](https://fahimfba.github.io/RainyRoof_Restaurant_Website/)
 
 ### Do you have plan on upgrading this website in the near future? ###
 
