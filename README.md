@@ -10,7 +10,7 @@ Don't forget to :star: the repo if you like it :happy:
 
 <br>
 
-![img 1](img/1.png)
+![img 1](img/1.jpg)
 ![img 2](img/2.png)
 ![img 3](img/3.png)
 ![img 4](img/4.png)
