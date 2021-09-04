@@ -1,5 +1,5 @@
 <div align="center">
-<h1> A fully functional Restaurant Website </h1>
+<h1> A Fully Functional Restaurant Website </h1>
 
 
 [Live Preview](https://fahimfba.github.io/RainyRoof_Restaurant_Website/)
