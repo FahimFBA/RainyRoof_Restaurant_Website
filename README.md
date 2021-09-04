@@ -4,13 +4,13 @@
 
 [Live Preview](https://fahimfba.github.io/RainyRoof_Restaurant_Website/)
 
-Don't forget to :star: the repo if you like it :happy:
+Don't forget to :star: the repo if you like it :blush:
 
 
 
 <br>
 
-![img 1](img/1.jpg)
+![img 1](img/1.png)
 ![img 2](img/2.png)
 ![img 3](img/3.png)
 ![img 4](img/4.png)
