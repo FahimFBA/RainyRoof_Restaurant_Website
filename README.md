@@ -1,12 +1,36 @@
-## This website has been prepared by pure raw codes : HTML, CSS & JavaScript ##
+<div align="center">
+<h1> A fully functional Restaurant Website </h1>
 
-### Do you want to see the result? ###
 
-[Click here!](https://fahimfba.github.io/RainyRoof_Restaurant_Website/)
+[Live Preview](https://fahimfba.github.io/RainyRoof_Restaurant_Website/)
 
-### Do you have plan on upgrading this website in the near future? ###
+Don't forget to :star: the repo if you like it :blush:
 
-My answer is YES!
 
-### Will you accept customization from others too? ###
-Gladly!
+
+<br>
+
+![img 1](img/1.png)
+![img 2](img/2.png)
+![img 3](img/3.png)
+![img 4](img/4.png)
+![img 5](img/5.png)
+![img 6](img/6.png)
+![img 7](img/7.png)
+![img 8](img/8.png)
+![img 9](img/9.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
