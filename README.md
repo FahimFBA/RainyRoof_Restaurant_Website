@@ -20,17 +20,6 @@ Don't forget to :star: the repo if you like it :blush:
 ![img 8](img/8.png)
 ![img 9](img/9.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
+
+[![Stargazers repo roster for @FahimFBA/RainyRoof_Restaurant_Website](https://reporoster.com/stars/FahimFBA/RainyRoof_Restaurant_Website)](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/stargazers)
